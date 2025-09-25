@@ -22,14 +22,14 @@ It includes examples of line plots, bar charts, scatter plots, histograms, and m
    cd matplotlib-project
    ```
 
---
+---
 
 2. Create a virtual environment (recommended):
 ```
 source venv/bin/activate   # for Linux/Mac
 venv\Scripts\activate      # for Windows
 ```
---
+---
 
 3. Install dependencies:
 ```
