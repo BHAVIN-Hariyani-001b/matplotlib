@@ -19,19 +19,19 @@ It includes examples of line plots, bar charts, scatter plots, histograms, and m
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/matplotlib-project.git
-   cd matplotlib-project
+   cd matplotlib
    ```
 
 ---
 
 2. Create a virtual environment (recommended):
-```
-source venv/bin/activate   # for Linux/Mac
-venv\Scripts\activate      # for Windows
-```
----
+    ```
+    source venv/bin/activate   # for Linux/Mac
+    venv\Scripts\activate      # for Windows
+    ```
+    ---
 
 3. Install dependencies:
-```
-pip install -r requirements.txt
-```
+    ```
+    pip install -r requirements.txt
+    ```
